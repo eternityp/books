@@ -4,16 +4,20 @@ https://gitlab.eterp.kro.kr/eternityp/obs-study
 [제이펍] 자바 개발자를 위한 97가지 제안
 https://product.kyobobook.co.kr/detail/S000001942514
 
+----------------------------------------------------
 -- 옵시디언 정리 중
+
 [인사이트] 손에 잡히는 10분 정규 표현식
 https://product.kyobobook.co.kr/detail/S000001033074
 
+[오렐리][피제이퍼블릭] 자바 성능 튜닝
+https://product.kyobobook.co.kr/detail/S000001890797
+
+----------------------------------------------------
 -- 읽음
+
 [인사이트] 자바 성능 튜닝 이야기
 https://product.kyobobook.co.kr/detail/S000001032977
-
-[한및미디어] 자바 최적화
-https://product.kyobobook.co.kr/detail/S000001810148
 
 [인사이트] 프로그래밍 심리학
 https://product.kyobobook.co.kr/detail/S000001032983
@@ -36,26 +40,56 @@ https://product.kyobobook.co.kr/detail/S000001032957
 [인사이트] 클린 아키텍쳐
 https://product.kyobobook.co.kr/detail/S000001033082
 
-[위키북스] 코드 컴플리트2
-https://product.kyobobook.co.kr/detail/S000001766290
+[인사이트] 가상 면접 사례로 배우는 대규모 시스템 설계 기초
+https://product.kyobobook.co.kr/detail/S000001033116
+
+[한빛미디어] 자바 최적화
+https://product.kyobobook.co.kr/detail/S000001810148
 
 [한빛미디어] 자바 네트워크 소녀 Netty
 https://product.kyobobook.co.kr/detail/S000001057642
 
-[한빛미디어][오렐리] 자바를 활용한 딥러닝
-https://product.kyobobook.co.kr/detail/S000001810080
-
-[한빛미디어][오렐리] 구글 엔지니어는 이렇게 일한다
-https://product.kyobobook.co.kr/detail/S000061352347
-
-[한빛미디어][오렐리] NGINX 쿡북
-https://product.kyobobook.co.kr/detail/S000200497075
+[한빛미디어] 리팩터링 2판
+https://product.kyobobook.co.kr/detail/S000001810241
 
 [에이콘] 엔진엑스로 운용하는 효율적인 웹사이트
 https://product.kyobobook.co.kr/detail/S000000935424
 
 [에이콘] Neo4j로 시작하는 그래프 데이터베이스 2판
 https://product.kyobobook.co.kr/detail/S000001804691
+
+[위키북스] 오브젝트
+https://product.kyobobook.co.kr/detail/S000001766367
+
+[위키북스] 실전! 스프링 5를 활용한 리액티브 프로그래밍
+https://product.kyobobook.co.kr/detail/S000001766386
+
+[위키북스] 도메인 주도 설계로 시작하는 마이크로서비스 개발
+https://product.kyobobook.co.kr/detail/S000001766464
+
+[위키북스] 실전! 스프링 5와 Vue.js 2로 시작하는 모던 웹 애플리케이션 개발
+https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000005295816
+
+[위키북스] 코드 컴플리트2
+https://product.kyobobook.co.kr/detail/S000001766290
+
+[오렐리][한빛미디어] 자바를 활용한 딥러닝
+https://product.kyobobook.co.kr/detail/S000001810080
+
+[오렐리][한빛미디어] 구글 엔지니어는 이렇게 일한다
+https://product.kyobobook.co.kr/detail/S000061352347
+
+[오렐리][한빛미디어] NGINX 쿡북
+https://product.kyobobook.co.kr/detail/S000200497075
+
+[오렐리][제이펍] 카프카 핵심 가이드 (구판)
+https://product.kyobobook.co.kr/detail/S000201464167
+
+[피제이퍼블릭] Kaggle 우승작으로 배우는 머신러닝 탐구생활
+https://product.kyobobook.co.kr/detail/S000001890852
+
+[프리렉] 스프링 부트와 AWS로 혼자 구현하는 웹 서비스
+https://product.kyobobook.co.kr/detail/S000001019679
 
 [이지퍼블리싱] 알고리즘 코딩 테스트 자바편
 https://product.kyobobook.co.kr/detail/S000001818060
