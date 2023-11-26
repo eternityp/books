@@ -2,195 +2,258 @@
 https://gitlab.eterp.kro.kr/eternityp/obs-study
 
 [제이펍] 자바 개발자를 위한 97가지 제안
+- 자바
 https://product.kyobobook.co.kr/detail/S000001942514
 
 ----------------------------------------------------
 -- 옵시디언 정리 중
 
 [인사이트] 손에 잡히는 10분 정규 표현식
+- 정규식
 https://product.kyobobook.co.kr/detail/S000001033074
 
 [오렐리][피제이퍼블릭] 자바 성능 튜닝
+- 자바
 https://product.kyobobook.co.kr/detail/S000001890797
 
 ----------------------------------------------------
 -- 읽음
 
 [인사이트] 자바 성능 튜닝 이야기
+- 자바
 https://product.kyobobook.co.kr/detail/S000001032977
 
 [인사이트] 프로그래밍 심리학
+- 프로그래밍 공통
 https://product.kyobobook.co.kr/detail/S000001032983
 
 [인사이트] CODE
+- 프로그래밍 공통
 https://product.kyobobook.co.kr/detail/S000001033006
 
 [인사이트] 이펙티브 자바 3판
+- 자바
 https://product.kyobobook.co.kr/detail/S000001033066
 
 [인사이트] Sql AntiPatterns
+- SQL
 https://product.kyobobook.co.kr/detail/S000001032908
 
 [인사이트] 생각하는 프로그래밍
+- 프로그래밍 공통
 https://product.kyobobook.co.kr/detail/S000001032984
 
 [인사이트] 실전 사례로 살펴보는 SQL 튜닝 비법
+- SQL
 https://product.kyobobook.co.kr/detail/S000001032957
 
 [인사이트] 클린 아키텍쳐
+- 프로그래밍 공통
 https://product.kyobobook.co.kr/detail/S000001033082
 
 [인사이트] 가상 면접 사례로 배우는 대규모 시스템 설계 기초
+- 프로그래밍 공통
 https://product.kyobobook.co.kr/detail/S000001033116
 
 [인사이트] 실전 리액트 프로그래밍
+- 리액트
 https://product.kyobobook.co.kr/detail/S000001033095
 
 [한빛미디어] 자바 최적화
+- 자바
 https://product.kyobobook.co.kr/detail/S000001810148
 
 [한빛미디어] 자바 네트워크 소녀 Netty
+- 자바, 비동기
 https://product.kyobobook.co.kr/detail/S000001057642
 
 [한빛미디어] 리팩터링 2판
+- 프로그래밍 공통
 https://product.kyobobook.co.kr/detail/S000001810241
 
 [한빛미디어] 누구나 쉽게 스칼라+플레이
+- 스칼라, 플레이
 https://product.kyobobook.co.kr/detail/S000001057814
 
 [한빛미디어] 소문난 명강의 오준석의 안드로이드 생존코딩: 코틀린 편
+- 코틀린, 안드로이드
 https://product.kyobobook.co.kr/detail/S000001810457
 
 [한빛미디어] 뇌를 자극하는 JAVA 프로그래밍
+- 자바
 https://product.kyobobook.co.kr/detail/S000001223335
 
 [한빛미디어] 만들면서 배우는 HTML5 CSS3 jQuery
+- HTML, CSS, 자바스크립트
 https://product.kyobobook.co.kr/detail/S000001223827
 
 [한빛미디어] 이것이 취업을 위한 코딩 테스트다 with 파이썬
+- 파이썬, 코딩 테스트
 https://product.kyobobook.co.kr/detail/S000001810273
 
 [에이콘] 엔진엑스로 운용하는 효율적인 웹사이트
+- NGINX
 https://product.kyobobook.co.kr/detail/S000000935424
 
 [에이콘] Neo4j로 시작하는 그래프 데이터베이스 2판
+- Neo4J, 그래프 데이터베이스
 https://product.kyobobook.co.kr/detail/S000001804691
 
 [에이콘] AWS 공인 솔루션스 아키텍트 스터디 가이드: 어소시에이트
+- Devops, AWS
 https://product.kyobobook.co.kr/detail/S000202041076
 
 [에이콘] 일래스틱 스택 6 입문
+- ELK
 https://product.kyobobook.co.kr/detail/S000001804668
 
 [에이콘] 자바 ORM 표준 JPA 프로그래밍
+- 자바, 스프링, JPA
 https://product.kyobobook.co.kr/detail/S000000935744
 
 [위키북스] 오브젝트
+- 프로그래밍 공통
 https://product.kyobobook.co.kr/detail/S000001766367
 
 [위키북스] 실전! 스프링 5를 활용한 리액티브 프로그래밍
+- 자바, 스프링, 비동기
 https://product.kyobobook.co.kr/detail/S000001766386
 
 [위키북스] 도메인 주도 설계로 시작하는 마이크로서비스 개발
+- 프로그래밍 공통
 https://product.kyobobook.co.kr/detail/S000001766464
 
 [위키북스] 실전! 스프링 5와 Vue.js 2로 시작하는 모던 웹 애플리케이션 개발
+- 자바, 스프링, 자바스크립트, Vue
 https://product.kyobobook.co.kr/detail/S000001766410
 
 [위키북스] 빅데이터 분석을 위한 스파크2 프로그래밍
+- 자바, 스파크, Ai
 https://product.kyobobook.co.kr/detail/S000001766333
 
 [위키북스] AI 엔지니어를 위한 머신러닝 시스템 디자인 패턴
+- 파이썬, Devops, Ai
 https://product.kyobobook.co.kr/detail/S000001766493
 
 [위키북스] 파이썬을 이용한 머신러닝, 딥러닝 실전 개발 입문
+- 파이썬, Ai
 https://product.kyobobook.co.kr/detail/S000001766404
 
 [위키북스] 코드 컴플리트2
+- 프로그래밍 공통
 https://product.kyobobook.co.kr/detail/S000001766290
 
 [오렐리][한빛미디어] 자바를 활용한 딥러닝
+- 자바, Ai
 https://product.kyobobook.co.kr/detail/S000001810080
 
 [오렐리][한빛미디어] 구글 엔지니어는 이렇게 일한다
+- 프로그래밍 공통
 https://product.kyobobook.co.kr/detail/S000061352347
 
 [오렐리][한빛미디어] NGINX 쿡북
+- NGINX
 https://product.kyobobook.co.kr/detail/S000200497075
 
 [오렐리][한빛미디어] HEAD FIRST AJAX
+- 자바스크립트, Ajax
 https://product.kyobobook.co.kr/detail/S000001223618
 
 [오렐리][한빛미디어] 헤드 퍼스트 디자인 패턴
+- 프로그래밍 공통
 https://product.kyobobook.co.kr/detail/S000001810483
 
 [오렐리][한빛미디어] 프로그래밍 스칼라
+- 스칼라
 https://product.kyobobook.co.kr/detail/S000001057693
 
 [오렐리][한빛미디어] 핸즈온 머신러닝
+- 파이썬, Ai
 https://product.kyobobook.co.kr/detail/S000208981368
 
 [오렐리][제이펍] 카프카 핵심 가이드 (구판)
+- 자바, 카프카
 https://product.kyobobook.co.kr/detail/S000201464167
 
 [비제이퍼블릭] Kaggle 우승작으로 배우는 머신러닝 탐구생활
+- 파이썬, Ai, Kaggle
 https://product.kyobobook.co.kr/detail/S000001890852
 
 [프리렉] 스프링 부트와 AWS로 혼자 구현하는 웹 서비스
+- 자바, 스프링, Devops, AWS
 https://product.kyobobook.co.kr/detail/S000001019679
 
 [제이펍] 웹 개발자를 위한 대규모 서비스를 지탱하는 기술
+- 프로그래밍 공통
 https://product.kyobobook.co.kr/detail/S000001550638
 
 [제이펍] 빅데이터를 지탱하는 기술
+- 프로그래밍 공통
 https://product.kyobobook.co.kr/detail/S000001916916
 
 [제이펍] 아마존 웹 서비스 부하 테스트 입문
+- Devops, AWS
 https://product.kyobobook.co.kr/detail/S000001916911
 
 [제이펍] 텐서플로로 시작하는 딥러닝
+- 파이썬, Ai, Tensorflow
 https://product.kyobobook.co.kr/detail/S000001875108
 
 [제이펍] 따라 하며 배우는 앵귤러 마스터북
+- 자바스크립트, Angular
 https://product.kyobobook.co.kr/detail/S000001916874
 
 [제이펍] 러닝 스칼라
+- 스칼라
 https://product.kyobobook.co.kr/detail/S000001875100
 
 [길벗] 리액트를 다루는 기술 개정판
+- 자바스크립트, React
 https://product.kyobobook.co.kr/detail/S000001792882
 
 [루비페이퍼] RxJS 퀵스타트
+- 자바스크립트, 비동기, Rxjs
 https://product.kyobobook.co.kr/detail/S000001891080
 
 [이지퍼블리싱] 알고리즘 코딩 테스트 자바편
+- 자바, 코딩 테스트
 https://product.kyobobook.co.kr/detail/S000001818060
 
 [이지퍼블리싱] Do it! 자료구조와 함께 배우는 알고리즘 입문: 자바 편
+- 자바, 코딩 테스트
 https://product.kyobobook.co.kr/detail/S000061352392
 
 [이지퍼블리싱] Do it! 반응형 웹 페이지 만들기
+- 자바스크립트, CSS
 https://product.kyobobook.co.kr/detail/S000001818008
 
 [디지털북스] 오늘도 개발자가 안 된다고 말했다
+- 프로그래밍 공통
 https://product.kyobobook.co.kr/detail/S000000938510
 
 [디지털북스] 파이썬, 케라스로 배우는 대소니의 딥러닝 기초
+- 파이썬, Ai
 https://product.kyobobook.co.kr/detail/S000000938434
 
 [디지털북스] Django(장고)로 쉽게 배우는 배프의 오지랖 파이썬 웹프로그래밍
+- 파이썬, Django
 https://product.kyobobook.co.kr/detail/S000000938455
 
 [정보문화사] 완벽한 IT 인프라 구축을 위한 Docker
+- Devops, Docker
 https://product.kyobobook.co.kr/detail/S000000833213
 
 [정보문화사] 초보자를 위한 Oracle 10g
+- Oracle
 https://product.kyobobook.co.kr/detail/S000000832788
 
 [가메] JPA 프로그래밍 입문
+- 자바, 스프링 ,JPA
 https://product.kyobobook.co.kr/detail/S000001248947
 
 [글로벌] 쉽게 배우는 파이썬 프로그래밍
+- 파이썬
 https://product.kyobobook.co.kr/detail/S000000790859
 
 -- 대기
+교보문고 장바구나 확인
